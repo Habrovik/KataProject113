@@ -1,11 +1,16 @@
 package jm.task.core.jdbc;
 
+import jm.task.core.jdbc.model.User;
 import jm.task.core.jdbc.service.UserServiceImpl;
 import jm.task.core.jdbc.util.Util;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
 
 public class Main {
     public static void main(String[] args) {
-        Util.getConection();
+        Util.getSessionFactory();
+
         UserServiceImpl userService = new UserServiceImpl();
         userService.createUsersTable();
         userService.saveUser("Name1", "LastName1", (byte) 20);

@@ -1,28 +1,28 @@
 
 
-java:S2095$"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8”Ş¹·—2J$f8954d44-c686-493d-9925-6bcc49e384eb
+java:S2095j"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8”Ş¹·—2J$c277a16a-d831-4da7-b3fd-c2631986f2d8
 —
-java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8”Ş¹·—2J$2072c7b7-986d-4f21-bedf-02186452afab
+java:S2095A"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8”Ş¹·—2J$6209e741-1ebe-4034-a22c-3215bbce8421
+
+java:S2095$"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8”Ş¹·—2J$7913621c-ef15-41b2-a782-3ac43028ae7b
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8•Ş¹·—2J$1bdc5dbe-1b86-41f5-9164-6e8a298439de
 —
-java:S2095A"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8”Ş¹·—2J$00ab2c5c-aaf4-4e8a-9266-29f4e4683b5a
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8”Ş¹·—2J$7ba23073-3424-4984-b44e-5972ce12f771
 
-java:S2095U"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8”Ş¹·—2J$cdeec5df-734f-4040-9838-12df1ef29872
-
-java:S2095j"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8”Ş¹·—2J$fcdc8951-b23c-4bcb-a6e7-c211209804b8
-
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8•Ş¹·—2J$63b80639-c32a-4742-89fc-1e8e221e3bca
+java:S2095U"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8”Ş¹·—2J$d304b083-330c-4ea1-9c00-a743d0f29d35
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ½†š8—Ş¹·—2J$f7eda19f-5a13-48f4-bb2e-e1e9b8a6341b
-m	java:S106"+Replace this use of System.out by a logger.(‡ØáÊ8 Ş¹·—2J$e47ad852-4f60-4ff7-b380-e92427c71285
-r	java:S106"+Replace this use of System.out by a logger.(Ü¬¦¨üÿÿÿÿ8¡Ş¹·—2J$a557c0fe-8b98-41be-ae61-d8cf0a545f09
-r	java:S106&"+Replace this use of System.out by a logger.(òá’Œùÿÿÿÿ8£Ş¹·—2J$cadc7b71-7c96-4097-aee8-65cf14d49a27
-r	java:S106)"+Replace this use of System.out by a logger.(ÀşÅ§ıÿÿÿÿ8¤Ş¹·—2J$13d7c12a-c335-4527-bc01-68609b537aab
-m	java:S1069"+Replace this use of System.out by a logger.(Àİ§ 8§Ş¹·—2J$50cae0a6-8d7a-4518-a141-b8f72317121f
-m	java:S106F"+Replace this use of System.out by a logger.(¾çÃ²8©Ş¹·—2J$5c73efe4-07fb-4e32-8691-a5ad28259002
-m	java:S106H"+Replace this use of System.out by a logger.(áÙÑâ8ªŞ¹·—2J$9dba0835-0ba4-43cd-9a98-04006c4358c1
-r	java:S106M"+Replace this use of System.out by a logger.(Ê€Êùÿÿÿÿ8ªŞ¹·—2J$542c71ec-26f5-426f-81c0-ea1073137399
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ½†š8—Ş¹·—2J$535e6ce2-5543-4880-9d1c-4e6b1316fc82
+m	java:S106"+Replace this use of System.out by a logger.(‡ØáÊ8 Ş¹·—2J$ddb1ddab-03f3-4f07-a9d1-8a0d31a319fa
+r	java:S106"+Replace this use of System.out by a logger.(Ü¬¦¨üÿÿÿÿ8¡Ş¹·—2J$12693dd1-ceef-4fea-a2ef-72ac148356e8
+r	java:S106&"+Replace this use of System.out by a logger.(òá’Œùÿÿÿÿ8£Ş¹·—2J$c5de9c68-2e2b-4982-8d1d-2559d77fd5b8
+r	java:S106)"+Replace this use of System.out by a logger.(ÀşÅ§ıÿÿÿÿ8¤Ş¹·—2J$69c071d8-c244-4795-8ce8-60d67e8567c4
+m	java:S1069"+Replace this use of System.out by a logger.(Àİ§ 8§Ş¹·—2J$604179f5-f24c-4092-ac1d-2807766ef6ee
+m	java:S106F"+Replace this use of System.out by a logger.(¾çÃ²8©Ş¹·—2J$1b14d23a-449e-41f3-8bf3-a7c3a0263808
+m	java:S106H"+Replace this use of System.out by a logger.(áÙÑâ8ªŞ¹·—2J$f030251b-724b-4552-9052-5a9958910bbd
+r	java:S106M"+Replace this use of System.out by a logger.(Ê€Êùÿÿÿÿ8ªŞ¹·—2J$d98bd34f-36ed-44a4-8fbc-15cb2dfa30df
 b
-java:S6905S"Don't use the query "SELECT *".(‹”îÜ8®Ş¹·—2J$e4ec2fba-8f41-4103-9fb8-5c7e9181f1e8
-m	java:S106b"+Replace this use of System.out by a logger.(±™‡è8ºŞ¹·—2J$99b34032-6670-4318-8c1f-db7c1d104b2c
-m	java:S106l"+Replace this use of System.out by a logger.(ÒŒœÓ8¿Ş¹·—2J$05790831-31c0-4ab0-bd63-65e8466066e5
-r	java:S106o"+Replace this use of System.out by a logger.(şÓÈ¾ıÿÿÿÿ8ÁŞ¹·—2J$55939fbf-95e8-43f2-aaea-b5743b74fa5e
+java:S6905S"Don't use the query "SELECT *".(‹”îÜ8®Ş¹·—2J$a5d19fd3-fc6f-466b-924f-a6c488e716dd
+m	java:S106b"+Replace this use of System.out by a logger.(±™‡è8ºŞ¹·—2J$7b22111f-e464-4aad-8176-af9f09831577
+m	java:S106l"+Replace this use of System.out by a logger.(ÒŒœÓ8¿Ş¹·—2J$b2afec15-9aae-4925-aa13-bdc76dcf1ce5
+r	java:S106o"+Replace this use of System.out by a logger.(şÓÈ¾ıÿÿÿÿ8ÁŞ¹·—2J$625fee31-ba19-40f7-9bf2-27f1d795af5a

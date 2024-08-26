@@ -1,9 +1,27 @@
 
-v
-java:S1118":Add a private constructor to hide the implicit public one.(×¼­ÆJ$598c105a-4eda-49b1-befa-5d4b42d7f50e
+”
+java:S1192+"LUse already-defined constant 'DRIVER' instead of duplicating its value here.(ò¥‡íıÿÿÿÿ8© ˜ÿ˜2J$dccd45eb-638a-4914-ab7e-d9577c52816f
+‘
+java:S1192,"IUse already-defined constant 'URL' instead of duplicating its value here.(›ïÂôûÿÿÿÿ8© ˜ÿ˜2J$9e0f9e98-4a98-4c39-99e2-a9c6041a8649
+}
+java:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ8Ì ˜ÿ˜2J$878d92ee-d593-4df7-a0d7-b881cc8ca545
 y
-java:S6437"6Revoke and change this password, as it is compromised.(†±àÜ8İ„äŒ—2J$98b23a45-9431-481b-820a-f7e0c9c2fb3b
-k	java:S106"+Replace this use of System.out by a logger.(¼ß¯‡ÿÿÿÿÿJ$3e22b6a2-68e0-42c1-b574-56842dfe445b
-k	java:S106"+Replace this use of System.err by a logger.(ˆˆµÈşÿÿÿÿJ$f99f13c5-5775-4992-b64b-0b4f2af37cf3
+java:S6437"6Revoke and change this password, as it is compromised.(†±àÜ8Ñ ˜ÿ˜2J$833af339-977c-4502-b697-75fd4239811c
+r	java:S106"+Replace this use of System.out by a logger.(¼ß¯‡ÿÿÿÿÿ8Ò ˜ÿ˜2J$527c5865-5d36-4d9b-9c6d-9477f315e493
+r	java:S106"+Replace this use of System.err by a logger.(ˆˆµÈşÿÿÿÿ8Ó ˜ÿ˜2J$b48f40c1-8b39-47ef-b9d0-988790fa93d9
+’
+java:S3252+"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(ò¥‡íıÿÿÿÿ8é ˜ÿ˜2J$b84dd298-6e18-4464-a7d6-78605079010f
+
+java:S3252,"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(›ïÂôûÿÿÿÿ8é ˜ÿ˜2J$3b0d08fa-1273-4cd8-aeaf-1ae1886f8625
+‹
+java:S3252-"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(è©šŒ8ê ˜ÿ˜2J$bfd76274-987e-4db0-ab9c-860964c29c3d
+‹
+java:S3252."HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(›Áìë8ê ˜ÿ˜2J$d30c4944-679a-4802-bcf0-f7e6bdbcce66
+“
+java:S3252/"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(á¶ Óıÿÿÿÿ8ë ˜ÿ˜2J$c2419332-a768-4399-a107-4dc982d7ab24
+
+java:S32521"LUse static access with "org.hibernate.cfg.AvailableSettings" for "SHOW_SQL".(÷µ•–8ì ˜ÿ˜2J$64f19b43-df3f-42b4-9833-291d94ad11fb
+¤
+java:S32523"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(ßÓÿ­8í ˜ÿ˜2J$b0051267-5561-485f-acd0-71aa5779e202
 t
-java:S1128",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ8‚†åŒ—2J$92535f17-9897-4357-acf2-ab4c4269b6a1
+java:S1128",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ8ó ˜ÿ˜2J$1c29a54a-95f4-4170-9d0a-afc620e5c38e
